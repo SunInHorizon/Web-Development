@@ -1,0 +1,41 @@
+h1
+{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+form
+{
+    text-align: center;
+}
+
+label
+{
+    font-size: larger;
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    background-color:whitesmoke;
+    border-radius: 25px;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+input
+{
+    padding: 10px;
+    size: 20;
+    border-radius: 5px;
+}
+
+.color
+{
+    background-color: blue;
+    font-size: larger;
+}
